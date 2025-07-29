@@ -1,1 +1,1 @@
-# Binocular-DSN-Neural-Network-Model
+This provides source code and testing datasets in support of the research paper entitled "A neuromorphic binocular framework fusing directional and depth motion cues towards precise collision prediction".
